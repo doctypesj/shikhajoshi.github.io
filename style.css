@@ -29,7 +29,7 @@ scroll-behavior: smooth;
     padding: 0 50px;
 }
 #navbar__logo{
-    background: url('../images/capture.png') no-repeat center;
+    background: url('capture.png') no-repeat center;
    
     background-size: 100%;
   
@@ -203,7 +203,7 @@ transition: all 0.3s ease;
     flex-direction: column;
     justify-content: left;
     color: #fff;
-    background: url('../images/banner.png') no-repeat center/cover;
+    background: url('banner.png') no-repeat center/cover;
 }
 
 .hero__content h1 {
