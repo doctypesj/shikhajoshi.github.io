@@ -637,6 +637,7 @@ text-decoration: none;
        color: #131313;
         /*background-image: linear-gradient (to top, #ff087b 0%, #ed1a52 100%);*/
         background-size: 100%;
+      
         /*-webkit-background-clip: text;
         -moz-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -658,6 +659,7 @@ text-decoration: none;
    margin: 10px 0;
     font-size: 1rem;
     font-weight: 500;
+      padding: 20px;
 }
 .resources__img__card {
     margin: 10px;
