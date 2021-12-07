@@ -432,6 +432,7 @@ text-decoration: none;
     flex-direction: column;
     justify-content: center;
     color: #fff;
+    background: url('company.png') no-repeat center/cover;
     background-color: rgb(34, 123, 224);
     align-items: center;
   }
